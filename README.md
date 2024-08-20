@@ -22,3 +22,7 @@ Casi nunca juego videojuegos, si lo hago es con amigos (Mine o BTF1).
 Me encanta encontrar musica nueva, escuchar al mismo artista por 6 meses seguidos y no saberme el nombre de ningun tema.
 
 En cuanto a la estetica cambio mis gustos cada 2 segundos.
+
+## Expectativas
+Aprender conceptos nuevos en cuanto a OOP y llevarme bien con los demas estudiantes y profesores.
+Promocionar jjasjaj
